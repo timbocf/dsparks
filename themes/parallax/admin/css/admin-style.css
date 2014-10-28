@@ -1,0 +1,21 @@
+/**
+ * Styling for WP Admin screen
+ * By http://www.themify.me/
+ */
+
+#themify_subtitle {
+	background-color: #fff;
+	color: #333;
+	font-size: 1.5em;
+	margin-top: 5px;
+	padding: 3px 8px;
+	width: 100%;
+}
+#subtitle-prompt-text {
+	color: #bbb;
+	position: absolute;
+	font-size: 1.7em;
+	padding: 8px 10px;
+	cursor: text;
+	top: 37px;
+}

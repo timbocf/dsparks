@@ -1,0 +1,41 @@
+.col4-1, .col4-2, .col4-3, .col3-1, .col3-2, .col2-1 {
+	float: right;
+	margin-left: 0;
+	margin-right: 3.2%;
+}
+.col.first, .col4-1.first, .col4-2.first, .col4-3.first, .col3-1.first, .col3-2.first, .col2-1.first {
+	margin-right: 0;
+}
+.loops-wrapper.list-post .post {
+	text-align: right;
+}
+
+.progress-bar {
+	text-align: right;
+}
+.post-nav .prev {
+	text-align: left;
+}
+
+@media (min-width: 761px) {
+	.loops-wrapper.grid4 .post, .loops-wrapper.grid3 .post, .loops-wrapper.grid2 .post {
+		float: right;
+		margin-left: 0;
+		margin-right: 3.2%;
+	}
+	.loops-wrapper.grid4 .post:nth-of-type(4n+1), .loops-wrapper.grid3 .post:nth-of-type(3n+1), .loops-wrapper.grid2 .post:nth-of-type(2n+1), .loops-wrapper.grid2-thumb .post:nth-of-type(2n+1) {
+		margin-right: 0;
+	}
+	#main-nav ul ul {
+		text-align: right;
+		left: auto;
+		right: 50%;
+		margin: 0 97px 0 0;
+	}
+	#main-nav ul ul:before {
+		left: auto;
+		right: -9px;
+		border-right: 0;
+		border-left: 8px solid #ccc;
+	}
+}
