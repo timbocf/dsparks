@@ -1,0 +1,69 @@
+/*  
+Skin Name: Purple
+Version: 1.0
+Description: Skin for Parallax
+*/
+
+/* links */
+a,
+.widget a {
+	color: #333;
+}
+
+/* buttons */
+input[type=reset],
+input[type=submit],
+button,
+.pagenav a,
+#load-more a {
+	background-color: #730797;
+	border-color: #5f067d;
+}
+input[type=reset]:hover,
+input[type=submit]:hover,
+button:hover,
+.pagenav a:hover,
+#load-more a:hover {
+	background: #8609b0;
+}
+
+/* headerwrap, nav-bar and footerwrap */
+#headerwrap,
+#nav-bar,
+#nav-bar.fixed-nav-bar,
+#footerwrap {
+	background-color: #730797;
+}
+#nav-bar {
+	background-color: rgba(115,7,151,.7);
+}
+
+/* main navigation */
+#main-nav a {
+	color: #fff;
+}
+#main-nav a:hover,
+#main-nav li:hover > a,
+#main-nav .current_page_item a,
+#main-nav .current-menu-item a,
+#main-nav .current_page_item a:hover,
+#main-nav .current-menu-item a:hover {
+	color: #e8a3ff;
+}
+
+/* back-top and footer widget list border */
+.back-top,
+#footer .widget li {
+	border-color: #5f067c;
+}
+
+/* footer */
+#footer {
+	color: #fff;
+}
+#footer a {
+	color: #fff;
+}
+#footer a:hover {
+	color: #e8a3ff;
+}
