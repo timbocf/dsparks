@@ -1,0 +1,14 @@
+/*
+Theme Name: Parallax Child
+Description: Child theme for Parallax theme
+Author: timbocf@gmail.com
+Template: parallax
+*/
+
+.faq {
+	list-style-type: none;
+}
+.faq li:before {
+	content: "+";
+	margin-right: 4px;
+}

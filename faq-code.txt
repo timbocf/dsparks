@@ -1,0 +1,66 @@
+<h2>FAQs</h2>
+<h4>Answers to your burning questions.</h4>
+<div class="faq click-nav">
+<ul class="no-js">
+	<li><a class="clicker" href="#empty">What is the “What’s Your Home Worth? And How To Make Your Home Worth More!” tool?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+	<li><a class="clicker" href="#!">Home Appraisal vs. Assessment: What is the Difference?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+	<li><a class="clicker" href="#!">Does a Home Appraisal Affect Property Taxes?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<li><a class="clicker" href="#!">Does a Property Assessment Affect Property Taxes?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<li><a class="clicker" href="#!">What is a Home Valuation?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<lI><a class="clicker" href="#!">What are Home Comps?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<li><a class="clicker" href="#!">How Is a Property Value Determined?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<li><a class="clicker" href="#!">How Is a Home's Market Value Determined?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<li><a class="clicker" href="#!">What is an Improvement?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<li><a class="clicker" href="#!">How Do I Increase My Home Value?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<li><a class="clicker" href="#!">What Can Negatively Affect House Values in My Area?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+<li><a class="clicker" href="#!">How Can I Check Home Values in My Area?</a>
+<ul>
+	<li>Phasellus accumsan fermentum enim quis feugiat. Nam sit amet vestibulum enim, vitae ullamcorper mi. Morbi euismod sed tortor vitae volutpat.</li>
+</ul>
+</li>
+</ul>
+</div>
